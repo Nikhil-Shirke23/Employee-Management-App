@@ -5,7 +5,7 @@ This django project is a simple CRUD application which performs some tasks, wher
 
 
 # 1. home page
-![image](https://user-images.githubusercontent.com/110036963/205482924-7491fbb6-cfab-4adc-87ea-7490e1604f87.png)
+![image (6)](https://user-images.githubusercontent.com/110036963/205553295-802ce484-0ce7-45cc-86d3-87377f77502a.png)
 
 # 2. add employee page
 ![add_emp](https://user-images.githubusercontent.com/110036963/205483058-2207bba9-8c34-4424-9929-0e9fc5dd77d8.png)
